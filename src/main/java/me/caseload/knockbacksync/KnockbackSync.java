@@ -96,9 +96,9 @@ public final class KnockbackSync extends JavaPlugin {
                 boolean updateAvailable = !currentVersion.equalsIgnoreCase(latestVersion);
 
                 if (updateAvailable) {
-                    getLogger().warning("A new update is available for download at: https://github.com/CASELOAD7000/knockback-sync/releases/latest");
+                    getLogger().warning("A new update is available of CASELOAD7000's Knockback Sync is available, please update the fork to the latest version.");
                 } else {
-                    getLogger().info("You are running the latest release.");
+                    getLogger().info("You are running the latest release of CASELOAD7000's Knockback Sync.");
                 }
 
                 setUpdateAvailable(updateAvailable);

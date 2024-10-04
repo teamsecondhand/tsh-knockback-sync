@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>me.caseload</groupId>
-    <artifactId>KnockbackSync</artifactId>
+    <artifactId>TSH-KnockbackSync</artifactId>
     <version>1.3.2</version>
     <packaging>jar</packaging>
 
-    <name>KnockbackSync</name>
+    <name>TSH KnockbackSync</name>
 
     <properties>
         <java.version>17</java.version>
